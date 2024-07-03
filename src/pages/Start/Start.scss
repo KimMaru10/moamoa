@@ -1,0 +1,11 @@
+.start {
+  max-width: calc(100svw);
+  height: calc(100svh - 55px);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  &_icon {
+    width: 200px;
+    height: 200px;
+  }
+}
