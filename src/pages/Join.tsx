@@ -109,7 +109,6 @@ const Join = () => {
           >
             <p>다음</p>
           </JoinButton>
-
           <JoinButton
             onClick={handlePrev}
             backgroundColor="#FFFFF"
