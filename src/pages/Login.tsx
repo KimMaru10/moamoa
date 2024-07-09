@@ -25,6 +25,7 @@ const LoginForm = styled.form`
     padding: 2%;
   }
 `;
+
 const InputWrapper = styled.div`
   border-radius: 7px;
   width: 100%;
